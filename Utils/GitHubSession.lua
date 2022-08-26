@@ -1,3 +1,5 @@
+local HttpService = game:GetService('HttpService')
+
 local GitHubSession = {}
 GitHubSession.__index = GitHubSession
 
